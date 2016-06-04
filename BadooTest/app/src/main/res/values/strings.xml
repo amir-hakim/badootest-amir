@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BadooTest</string>
+
+    <string name="products">Products</string>
+    <string name="transactions">transactions</string>
+    <string name="total">Total:</string>
+</resources>
